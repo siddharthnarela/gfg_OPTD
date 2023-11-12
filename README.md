@@ -1,6 +1,6 @@
 # GFG_OPTD
 <br>
-Author - Siddharth Narela
+<marquee>Author - Siddharth Narela</marquee>
 <br>
 
 <br>
